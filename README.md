@@ -51,7 +51,8 @@ Instructors can create courses and lectures (readings or quizzes), while student
 ---
 
 ## 🏗️ Project Architecture
-![System Architecture](./assets/architecture.png)
+<img width="1166" height="768" alt="Architecture" src="https://github.com/user-attachments/assets/c921903e-57b5-4df3-907b-e0420fc6e86c" />
+
 
 ## 🛠️ Installation
 
@@ -99,9 +100,6 @@ npm run dev
 <img width="2799" height="1430" alt="5" src="https://github.com/user-attachments/assets/4cc4db54-4498-421b-a45e-d7df11bfe1c7" />
 
 <br>
-<br>
-
-<img width="1166" height="768" alt="Architecture" src="https://github.com/user-attachments/assets/4ce9e9a0-8eaa-4444-af8c-5991d6b09cad" />
 
 
 
