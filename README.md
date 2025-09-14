@@ -80,10 +80,28 @@ npm run dev
 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <img width="2766" height="1503" alt="2" src="https://github.com/user-attachments/assets/c9a79dc3-e753-4a4c-b037-2997d28a269f" />
+
+<br>
+<br>
+
+<img width="2783" height="1482" alt="3" src="https://github.com/user-attachments/assets/0ef82c35-105f-4c72-86d4-a333df4da77b" />
+
+<br>
+<br>
+
+<img width="2742" height="1457" alt="4" src="https://github.com/user-attachments/assets/58260c08-98f7-4982-8e83-cbcbcbda1b8f" />
+
+<br>
+<br>
+
+<img width="2799" height="1430" alt="5" src="https://github.com/user-attachments/assets/4cc4db54-4498-421b-a45e-d7df11bfe1c7" />
+
+<br>
+<br>
+
+<img width="1166" height="768" alt="Architecture" src="https://github.com/user-attachments/assets/4ce9e9a0-8eaa-4444-af8c-5991d6b09cad" />
 
 
 
