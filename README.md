@@ -51,3 +51,59 @@ Instructors can create courses and lectures (readings or quizzes), while student
 
 ## 🏗️ Project Architecture
 
+app/
+├── layout.tsx # Root layout & metadata
+├── page.tsx # Landing page
+├── globals.css # Global styles
+├── components/ # Reusable UI components
+│ ├── auth/ # Login, Signup forms
+│ ├── courses/ # Course cards, details, lectures
+│ ├── dashboard/ # Student & Instructor dashboards
+│ └── ui/ # Shared UI components
+├── hooks/ # Custom React hooks
+└── provider/ # Theme & Auth providers
+
+yaml
+Copy code
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/edu-platform.git
+cd edu-platform
+2. Install Dependencies
+bash
+Copy code
+npm install
+3. Run the Development Server
+bash
+Copy code
+npm run dev
+4. Open in Browser
+arduino
+Copy code
+http://localhost:3000
+▶️ Running the Application
+After starting the dev server (npm run dev), you can:
+
+Register/Login – Choose Instructor or Student role.
+
+Instructor Dashboard – Create courses, add reading/quiz lectures.
+
+Student Dashboard – Browse courses, view lectures sequentially, attempt quizzes, track progress.
+
+🚀 Deployment
+This project is deployed on Vercel, which provides an optimized environment for Next.js apps.
+Simply push changes to the main branch, and Vercel will handle automatic builds & deployments.
+
+📌 Version Control
+This project is tracked using Git & GitHub.
+
+Commit history follows:
+setup → feature implementation → styling → testing → deployment.
+
+
+
