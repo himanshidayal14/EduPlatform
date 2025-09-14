@@ -21,7 +21,6 @@ Instructors can create courses and lectures (readings or quizzes), while student
 - **Progress Tracking** – Real-time updates (e.g., *5/10 lectures completed*).  
 - **Quiz Grading** – Instant evaluation with scores on submission.  
 
-⚠️ **Note:** This is a **frontend-only project**. APIs and persistence are simulated but the architecture is structured for **easy backend integration later**.
 
 ---
 
