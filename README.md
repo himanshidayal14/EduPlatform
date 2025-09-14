@@ -51,7 +51,7 @@ Instructors can create courses and lectures (readings or quizzes), while student
 ---
 
 ## 🏗️ Project Architecture
-![Image]()
+![System Architecture](./assets/architecture.png)
 
 ## 🛠️ Installation
 
