@@ -1,7 +1,8 @@
 <h1 align="center">🎓 Online Learning Platform – EduPlatform</h1>
 
-A **frontend-only Online Learning Platform** built with **Next.js (TypeScript)**.  
+A **Online Learning Platform** built with **Next.js (TypeScript)**.  
 The platform simulates a complete LMS experience with **Instructor** and **Student** roles.  
+
 
 Instructors can create courses and lectures (readings or quizzes), while students can browse courses, complete lectures, attempt quizzes, and track their progress.
 
@@ -72,7 +73,6 @@ npm run dev
 
 ## 💬 Contact
 📧 [himansheedayal@gmail.com]
-### 🔗 Live Demo: 
-```edu-platform-sepia-eight.vercel.app```
+
 
 
