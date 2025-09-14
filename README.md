@@ -74,5 +74,10 @@ npm run dev
 ## 💬 Contact
 📧 [himansheedayal@gmail.com]
 
+<img width="2658" height="1430" alt="1" src="https://github.com/user-attachments/assets/bf03c3c9-17ef-4545-85a6-a2705c1568c8" />
+
+
+<img width="2766" height="1503" alt="2" src="https://github.com/user-attachments/assets/c9a79dc3-e753-4a4c-b037-2997d28a269f" />
+
 
 
